@@ -1,0 +1,11 @@
+{
+  "name": "azzanna-la-zucca3",
+  "description": "Bite the Pumpkin game for 3 players",
+  "devDependencies": {
+    "babel-loader": "^5.3.2",
+    "webpack": "^1.11.0"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
