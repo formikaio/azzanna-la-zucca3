@@ -39,7 +39,6 @@ Per compilare solamente:
 
 
 ## TODO
-- maiale mangia broccoli
 - regola vittoria broccoli
 - gameutils: considera anche i broccoli negli spostamenti, birthplace e looking functions
 
