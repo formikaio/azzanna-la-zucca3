@@ -1,11 +1,11 @@
 # Azzanna la zucca
 
-Simulatore grafico per il gioco da scacchiera **Azzanna la zucca**.
+Simulatore grafico per il gioco da scacchiera **Azzanna la zucca** per 3 giocatori.
 
 ## Regole del gioco
 *Azzanna la zucca* è un gioco asimmetrico.
 
-I maiali vincono quando riescono a ridurre il numero delle Zucche in gioco a 2 o meno. Le Zucche vincono se sopravvivono per almeno 20 turni.
+I maiali vincono quando riescono a ridurre il numero delle Zucche e dei Broccoli in gioco a 2 o meno. Le Zucche e i Broccoli vincono se sopravvivono per almeno 20 turni.
 
 Nel simulatore muovi i Maiali, con le frecce su tastiera o tramite swipe da tablet o smartphone.
 
@@ -14,7 +14,7 @@ Premi **r** sulla tastiera per attivare l'autoplay.
 Le regole  complete del gioco sono qui:
 <http://www.formikaio.it/blog/azzanna-la-zucca/>
 
-## Demo online del simulatore
+## Demo online del simulatore per 2 giocatori
 <http://www.whiletrue.it/azzanna-la-zucca/>
 
 
